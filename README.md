@@ -29,3 +29,12 @@
 3. Right click on terminal and click on _Preferences_. Check the _Custom font_ checkbox and select the downloaded font.
 4. Install [Starship](https://starship.rs/guide/) and follow the setup.
 5. Customize promt using the **starship.toml** file for config. You can use the preset from this respository.
+
+## Gnome customization
+
+1. Install extension manager: `sudo nala install gnome-shell-extension-manager` and install following extensions:
+
+- **Blur my shell** by _blur-my-shell@aunetx_
+- **Vitals** by _Vitals@CoreCoding.com_
+- **Clipboard Indicator** by _clipboard-indicator@tudmotu.com_
+- **Color-Picker** by _color-picker@tuberry_

@@ -30,6 +30,13 @@
 4. Install [Starship](https://starship.rs/guide/) and follow the setup.
 5. Customize promt using the **starship.toml** file for config. You can use the preset from this respository.
 
+## Apps and Software
+
+1. Install Flatpak: `sudo nala install flatpak`
+2. Install GNOME Software: `sudo nala install gnome-software-plugin-flatpak`
+3. Add the Flatpak repo: `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
+4. Restart PC.
+
 ## Gnome customization
 
 1. Install extension manager: `sudo nala install gnome-shell-extension-manager` and install following extensions:
@@ -38,3 +45,5 @@
 - **Vitals** by _Vitals@CoreCoding.com_
 - **Clipboard Indicator** by _clipboard-indicator@tudmotu.com_
 - **Color-Picker** by _color-picker@tuberry_
+
+2. Install tweaks from GNOME software or using the command: `sudo nala install gnome-tweaks`

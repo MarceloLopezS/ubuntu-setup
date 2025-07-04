@@ -46,5 +46,6 @@
 - **Clipboard Indicator** by _clipboard-indicator@tudmotu.com_
 - **Color-Picker** by _color-picker@tuberry_
 - **Caffeine** by _caffeine@patapon.info_
+- **Just Perfection** by _just-perfection-desktop@just-perfection_
 
 2. Install tweaks from GNOME software or using the command: `sudo nala install gnome-tweaks`

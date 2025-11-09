@@ -39,12 +39,12 @@
 
 ## Apps and Software
 
-- KolourPaint: Paint alternative.
-- Kruler: Pixel ruler.
-- PDFsam Basic: PDF merge, page extraction, document cut, etc.
-- Bruno: Simple and light Postman alternative.
-- Gradia: Simple image annotations.
-- Constrict: Video compression based on target file size.
+- **KolourPaint:** Paint alternative.
+- **Kruler:** Pixel ruler.
+- **PDFsam Basic:** PDF merge, page extraction, document cut, etc.
+- **Bruno:** Simple and light Postman alternative.
+- **Gradia:** Simple image annotations.
+- **Constrict:** Video compression based on target file size.
 
 ## Gnome customization
 

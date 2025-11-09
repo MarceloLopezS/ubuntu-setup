@@ -30,12 +30,21 @@
 4. Install [Starship](https://starship.rs/guide/) and follow the setup.
 5. Customize promt using the **starship.toml** file for config. You can use the preset from this respository.
 
-## Apps and Software
+## Flatpak
 
 1. Install Flatpak: `sudo nala install flatpak`
 2. Install GNOME Software: `sudo nala install gnome-software-plugin-flatpak`
 3. Add the Flatpak repo: `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
 4. Restart PC.
+
+## Apps and Software
+
+- KolourPaint: Paint alternative.
+- Kruler: Pixel ruler.
+- PDFsam Basic: PDF merge, page extraction, document cut, etc.
+- Bruno: Simple and light Postman alternative.
+- Gradia: Simple image annotations.
+- Constrict: Video compression based on target file size.
 
 ## Gnome customization
 
